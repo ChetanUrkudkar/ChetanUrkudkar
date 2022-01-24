@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chetan Urkudkar
 - 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning B.E Information Technology
+- 🌱 I’m currently pursing B.E in Information Technology
 - 📫 You can Connect with me on LinkedIn: https://www.linkedin.com/in/chetanurkudkar/
 
 <!---
