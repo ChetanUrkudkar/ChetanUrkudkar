@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chetan Urkudkar
-- 👀 I’m interested in Machine Learning and Data Science
-- 🌱 Currently pursing B.E in Information Technology
+- 👀 Currently I'm working at Wipro as Project Engineer
+- 🌱 I love coding and development stuffs
 - 📫 You can Connect with me on LinkedIn: https://www.linkedin.com/in/chetanurkudkar/
 
 <!---
